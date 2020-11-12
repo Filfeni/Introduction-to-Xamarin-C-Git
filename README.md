@@ -1,4 +1,4 @@
-# Practica 1
+# Introduction to Xamarin & C#/Git Recap
  First mobile development practice <br/>
 ![alt text](https://github.com/Filfeni/Introduction-to-Xamarin-C-Git/blob/main/ssb.png?raw=true)
 ![alt text](https://github.com/Filfeni/Introduction-to-Xamarin-C-Git/blob/main/ssa.png?raw=true)
