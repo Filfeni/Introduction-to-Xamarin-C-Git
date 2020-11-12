@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_1.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#f6639b" Padding="24" CornerRadius="0">
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36" FontAttributes="Bold Italic"/>
+        </Frame>
+        <Label Text="Learn mobile development" TextColor="Black" FontSize="Title" Padding="30,10,30,10"/>
+        <Label Text="Xamarin is the best choice!" FontSize="16" Padding="30,20,30,0"/>
+        <Label FontSize="16" Padding="30,0,30,0">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                        <Span Text="Learn more at "/>
+                        <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold"/>
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+    </StackLayout>
+
+</ContentPage>
